@@ -12,3 +12,6 @@ Pour commencer avant de faire expo start assurer vous d'avoir les bons packages 
 ```yarn add @react-navigation/native```
 ```expo install react-native-screens react-native-safe-area-context```
 ```yarn add react-native-screens react-native-safe-area-context```
+
+
+J'ai pas pu aller plus loin car malheureusement j'ai eu de gros problème avec le package reanimated 2 qui ne faisait que planter malgré les efforts pour la corriger j'ai pas pu faire toutes les fonctionnalités que je voulais. 
